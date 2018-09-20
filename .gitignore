@@ -1,0 +1,17 @@
+__pycache__
+.DS_Store
+*.log
+.cache/
+.idea/
+myvariables.py
+153*.csv
+.pytest_cache/
+*.pyc
+clean_up.txt
+id_list.txt
+password.py
+.coverage
+test*.xml
+config.py
+junit.xml
+routes.txt

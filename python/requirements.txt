@@ -1,0 +1,24 @@
+##### Requirements without specific versions #####
+requests
+selenium
+pytest
+pymysql
+faker>=0.9.0
+sshtunnel
+locust
+locustio
+nose
+pytest-cov
+virtualenv
+
+##### Requirements with Version Specifiers #####
+##### See https://www.python.org/dev/peps/pep-0440/#version-specifiers #####
+# None
+
+###### Refer to other requirements files ######
+# None
+
+###### A particular file ######
+# config.py - This file stores the user-sensitive data. Use the
+#   example.config.py file, as an example of what the file should contain. This
+#   file should be placed in the ../testautomation/python folder.
